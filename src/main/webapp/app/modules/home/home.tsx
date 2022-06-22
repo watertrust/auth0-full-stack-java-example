@@ -60,6 +60,9 @@ export const Home = () => {
 
         <ul>
           <li>
+            <a href="http://localhost:8082">Link to local Wordpress</a>
+          </li>
+          <li>
             <a href="https://www.jhipster.tech/" target="_blank" rel="noopener noreferrer">
               <Translate contentKey="home.link.homepage">JHipster homepage</Translate>
             </a>
